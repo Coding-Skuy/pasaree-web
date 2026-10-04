@@ -1,0 +1,8 @@
+# Bun, SvelteKit, TypeScript
+node_modules/
+.svelte-kit/
+build/
+.env
+.env.*
+dist/
+.DS_Store
